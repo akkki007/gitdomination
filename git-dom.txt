@@ -15,5 +15,5 @@ Git practice
 -main banda woh changes audit karega aur add karega
 -git fetch
 -git pull
--git push origin branch name 
+-git push origin branchname 
 -github add colaborators
