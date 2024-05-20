@@ -1,0 +1,19 @@
+Git practice
+
+-branch creation
+-branch switching
+-Both in one command git switch -C branchname
+-write some code in branch 
+-merge the branch with main one
+-fast forward merger
+-three way merger
+-working with collaborators
+-firstly clone the repository in your local machine
+-create a branch 
+-add your code
+-push the changes
+-main banda woh changes audit karega aur add karega
+-git fetch
+-git pull
+-git push origin branch name 
+-github add colaborators
