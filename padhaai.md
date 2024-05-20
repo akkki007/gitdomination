@@ -1,1 +1,1 @@
-Now we will study 
+Now we will study branching in git . this is a very important topic that every programmer should look upon
